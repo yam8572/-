@@ -54,4 +54,5 @@ Input number of pixels in a cluster (n) and the target notation (F): 4 626<br>
 ## 2. 繳交檔案
 (1) python 程式，程式名稱：學號-04-determine optimal base.py。<br>
 
-**講義密碼:**2022CGMSGMB!
+**講義密碼:**
+2022CGMSGMB! <br>
