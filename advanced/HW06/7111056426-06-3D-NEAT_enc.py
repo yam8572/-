@@ -6,10 +6,6 @@ from pathlib import Path # 去掉副檔名
 # data visualisation and manipulation
 import matplotlib.pyplot as plt #show img and table
 
-from skimage.metrics import mean_squared_error
-from skimage.metrics import peak_signal_noise_ratio
-from skimage.metrics import structural_similarity
-
 def get_mean_and_std(typeStr, img_name, x):
     x_mean, x_std = cv2.meanStdDev(x)
     x_mean = np.hstack(np.around(x_mean,2))
