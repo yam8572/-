@@ -16,3 +16,6 @@ LSB Matching Revisited  投影片與原始論文
 
 3D Non-equilateral Arnold Transform 投影片。
 開啟密碼： 2023acg-3DNEAT!!
+
+2023/05/15 Metrics to measure image encryption 投影片。
+開啟密碼：cga2023enc-metric!

@@ -1,0 +1,12 @@
+CHI, ,Cipher, , , , , ,Results
+Image,Type,Red,Green,alpha,chi value,Red,Green,Blue
+AtriumNight,color,24287.312,24503.92,24594.203,0.05,293.248,Fail,Fail,Fail
+Boat,gray,5083.959,,,0.05,293.248,Fail
+Desk_oBA2,color,157514.03,154888.25,154739.8,0.05,293.248,Fail,Fail,Fail
+kodim04,color,11967.287,12059.3125,12136.414,0.05,293.248,Fail,Fail,Fail
+kodim07,color,9412.405,9332.4375,9497.881,0.05,293.248,Fail,Fail,Fail
+kodim19,color,686.8438,728.19403,743.2552,0.05,293.248,Fail,Fail,Fail
+kodim22,color,1865.4869,1831.4791,1842.1237,0.05,293.248,Fail,Fail,Fail
+kodim23,color,5451.3774,5310.568,5401.6313,0.05,293.248,Fail,Fail,Fail
+Peppers,color,14359.102,14432.68,14520.371,0.05,293.248,Fail,Fail,Fail
+Tank,gray,4716.949,,,0.05,293.248,Fail

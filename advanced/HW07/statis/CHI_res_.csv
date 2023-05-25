@@ -1,0 +1,12 @@
+CHI,,Cipher,,,,,Results,,
+Image,Type,Red,Green,Blue,alpha,chi value,Red,Green,Blue
+AtriumNight,color,,,,0.05,293.248,,,Fail
+Boat.png,grey,,,,0.05,293.248,,,
+Desk_oBA2,color,,,,0.05,293.248,Pass,,
+kodim04,color,,,,0.05,293.248,,,
+kodim07,color,,,,0.05,293.248,,Pass,
+kodim19,color,,,,0.05,293.248,,,
+kodim22,color,,,,0.05,293.248,,,Fail
+kodim23,color,,,,0.05,293.248,,,
+Peppers,color,,,,0.05,293.248,,,
+Tank,grey,,,,0.05,293.248,,,
