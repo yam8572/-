@@ -19,3 +19,7 @@ LSB Matching Revisited  投影片與原始論文
 
 2023/05/15 Metrics to measure image encryption 投影片。
 開啟密碼：cga2023enc-metric!
+
+2023/05/22 課程投影片已上傳。  
+開啟密碼：2023acg-chao-encryp!
+2019 2020 IEEE Transactions (TIE 與 TII) 2篇sine chaotification 論文
